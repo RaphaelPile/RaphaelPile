@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on numerical magneto-mechanical coupling for vibration simulation in electrical machines.
 - 🌱 I’m currently learning **python**
-%- 👯 I’m looking to collaborate on [Pyleecan software](www.brusa.biz)
 - 🤔 I’m looking for help with [Pyleecan software](https://github.com/Eomys/pyleecan)
-%- 💬 Ask me about ...
 - 📫 How to reach me: **raphael.pile@eomys.com**
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have a PhD in electrical engineering, but I don't really know how an electric motor works.
