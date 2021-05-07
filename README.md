@@ -11,3 +11,4 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have a PhD in electrical engineering, but I don't really know how an electric motor works.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Superomeg4&show_icons=true&theme=dark" alt="Superomeg4" /></p>
