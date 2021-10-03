@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with [Pyleecan software](https://github.com/Eomys/pyleecan)
 - 📫 How to reach me: **raphael.pile@eomys.com**
 - 😄 Pronouns: He
-- ‍🎓 PhD in electrical engineering, master in aeronautical engineering and master in applied and fundamental mathematics. 
+- ‍🎓 PhD in electrical engineering, master in aeronautical engineering and master in applied & fundamental mathematics. 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Superomeg4&show_icons=true&theme=dark" alt="Superomeg4" /></p>
