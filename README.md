@@ -10,4 +10,4 @@
 - ‍🎓 PhD in electrical engineering, master in aeronautical engineering and master in applied & fundamental mathematics. 
 - ❔  Fun fact: I am the person who proposed the acronym PYLEECAN at the origin of the project. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Superomeg4&show_icons=true&theme=dark" alt="RaphaelPile" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelPile&show_icons=true&theme=dark" alt="RaphaelPile" /></p>
