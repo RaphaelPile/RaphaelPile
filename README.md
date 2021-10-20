@@ -7,7 +7,7 @@
 - 🤔 I’m looking for contributors to the [Pyleecan software](https://github.com/Eomys/pyleecan)
 - 📫 How to reach me: **raphael.pile@eomys.com**
 - 😄 Pronouns: He
-- ‍🎓 PhD in electrical engineering, master in aeronautical engineering and master in applied & fundamental mathematics. 
+- ‍🎓 PhD in electrical engineering, MSc in aeronautical engineering and MSc in applied & fundamental mathematics. 
 - ❔  Fun fact: I am the person who proposed the acronym PYLEECAN at the origin of the project. 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelPile&show_icons=true&theme=dark" alt="RaphaelPile" /></p>
