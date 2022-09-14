@@ -2,7 +2,7 @@
 
 #### I am a French R&D engineer with a great interest in reproducibility and open-science issues. 
 
-- 🔭 I’m currently working on numerical magneto-mechanical coupling for vibration simulation in electrical machines.
+- 🔭 I’m currently working on numerical methods for electrical engineering.
 - 🌱 Mainly working with **python**
 - 🤔 I’m looking for contributors to the [Pyleecan software](https://github.com/Eomys/pyleecan)
 - 😄 Pronouns: He
