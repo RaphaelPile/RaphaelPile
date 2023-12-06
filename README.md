@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Raphaël
 
-#### I am a French R&D engineer with a great interest in reproducibility and open-science issues. 
+#### I am a French Lecturer-Researcher with a great interest in reproducibility and open-science issues. 
 
-- 🔭 I’m currently working on numerical methods for electrical engineering.
+- 🔭 I’m currently working on numerical methods for mechanical and electrical engineering.
 - 🌱 Mainly working with **python**
 - 🤔 I’m looking for contributors to the [Pyleecan software](https://github.com/Eomys/pyleecan)
 - 😄 Pronouns: He
